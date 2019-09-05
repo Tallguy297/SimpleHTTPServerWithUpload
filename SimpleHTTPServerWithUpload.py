@@ -330,7 +330,7 @@ if HOST == '':
 
 Handler = SimpleHTTPRequestHandler
 
-with socketserver.TCPServer((BIND, PORT), Handler) as httpd:
-	serve_message = "Serving HTTP on {host} port {port} (http://{host}:{port}/) ..."
-	print(serve_message.format(host=HOST, port=PORT))
-	httpd.serve_forever()
+httpd = socketserver.TCPServer((BIND, PORT), Handler)
+serve_message = "Serving HTTP on {host} port {port} (http://{host}:{port}/) ..."
+print(serve_message.format(host=HOST, port=PORT))
+httpd.serve_forever()
