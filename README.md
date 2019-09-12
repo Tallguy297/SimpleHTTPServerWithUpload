@@ -1,5 +1,7 @@
 # SimpleHTTPServerWithUpload
-Simple HTTP Server With Upload written in Python 3
+Simple HTTP Server With Upload written in Python.
+This script works with version 3.6
+Earlier versions will causing runtime errors.
 
 This is a modified version from the original source.
 https://gist.github.com/UniIsland/3346170
