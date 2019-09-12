@@ -11,3 +11,5 @@ I have added icons for directory and videos.
 Pictures (BMP, GIF, JPG, PNG) will display thumbnails.
 
 This script also supports IP Address & Port binding.
+
+Thanks to dzmitry-rudnouski for your comments.
