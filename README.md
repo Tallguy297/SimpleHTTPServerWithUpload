@@ -12,4 +12,4 @@ Pictures (BMP, GIF, JPG, PNG) will display thumbnails.
 
 This script also supports IP Address & Port binding.
 
-Thanks to dzmitry-rudnouski for your comments.
+Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.
