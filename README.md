@@ -8,7 +8,7 @@ This is a modified version from the original source.
 https://gist.github.com/UniIsland/3346170
 
 I have added icons for directory and videos.
-Pictures (BMP, GIF, JPG, PNG) will display thumbnails.
+Pictures (BMP, GIF, JPG, PNG) will display thumbnails.\n
 Directory listing is in a table format with file sizes.
 
 This script also supports IP Address & Port binding.
