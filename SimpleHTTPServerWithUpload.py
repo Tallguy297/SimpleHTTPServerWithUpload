@@ -95,8 +95,9 @@ class SimpleHTTPRequestHandler(http.server.BaseHTTPRequestHandler):
         else:
             f.write(b"<strong>Failed!</strong>")
         f.write(info.encode())
-        f.write(("<br><br><form action=\"%s\">" % self.headers['referer']).encode())
-        f.write(b"<input type=\"submit\" value=\"Back\"/></form>\n")
+        # f.write(("<br><br><form action=\"%s\">" % self.headers['referer']).encode())
+        f.write(("<br><br><a href=\"%s\">" % self.headers['referer']).encode())
+        f.write(b"<button>Back</button></a>\n")
         f.write(b"<hr><small>Powered By: bones7456<br>Check new version ")
         f.write(b"<a href=\"https://gist.github.com/UniIsland/3346170\" target=\"_blank\">")
         f.write(b"here</a>.</small></body>\n</html>\n")
@@ -373,3 +374,4 @@ with socketserver.TCPServer((BIND, PORT), Handler) as httpd:
 	serve_message = "Serving HTTP on {host} port {port} (http://{host}:{port}/) ..."
 	print(serve_message.format(host=HOST, port=PORT))
 	httpd.serve_forever()
+
