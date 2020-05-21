@@ -95,7 +95,6 @@ class SimpleHTTPRequestHandler(http.server.BaseHTTPRequestHandler):
         else:
             f.write(b"<strong>Failed!</strong>")
         f.write(info.encode())
-        # f.write(("<br><br><form action=\"%s\">" % self.headers['referer']).encode())
         f.write(("<br><br><a href=\"%s\">" % self.headers['referer']).encode())
         f.write(b"<button>Back</button></a>\n")
         f.write(b"<hr><small>Powered By: bones7456<br>Check new version ")
