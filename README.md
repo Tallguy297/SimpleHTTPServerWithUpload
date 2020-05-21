@@ -14,4 +14,4 @@ Directory listing is in a table format with file sizes and creation dates.
 
 This script also supports IP Address & Port binding.
 
-Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.
+Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements. :smiling face with sunglasses
