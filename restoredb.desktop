@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Restore KODI Media Centre Database
-Comment=Installs KODI Media Centre & Other Software
-Exec=gnome-terminal -e "bash -c 'cd \"$(dirname "\"%k\"")\"; sudo bash "./restoredb.sh"'"
-Icon=org.gnome.DiskUtility
-Terminal=false
-Type=Application
-Categories=Application;
