@@ -11,11 +11,6 @@ This script also supports IP Address & Port binding.<br><br>
 Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.<br><br>
 <b>Please Note: I am not the original author.<br>
 If there are any issues please go to the above listed URL. Thank you.</b>
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+```html
+<font color="green"> Some green text </font>
 ```
