@@ -9,9 +9,6 @@ Pictures (BMP, GIF, JPG, PNG) will display thumbnails.<br><br>
 Directory listing is in a table format with file sizes and creation dates.<br><br>
 This script also supports IP Address & Port binding.<br><br>
 Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.<br><br>
-> __Note__<br><br>
-$\color[RGB]{0,0,128}\ I\ am\ not\ the\ original\ author.$<br>
-$\color[RGB]{0,0,128}If\ there\ are\ any\ issues\ please\ go\ to\ the\ above\ listed\ URL.\ Thank\ you.$
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
     <text x="0" y="15" fill="#4285f4">G</text>
@@ -21,4 +18,13 @@ $\color[RGB]{0,0,128}If\ there\ are\ any\ issues\ please\ go\ to\ the\ above\ li
     <text x="40" y="15" fill="#389738">l</text>
     <text x="45" y="15" fill="#ea4335">e</text>
 </svg>
+
+
+
+
+> __Note__<br><br>
+$\color[RGB]{0,0,128}\ I\ am\ not\ the\ original\ author.$<br>
+$\color[RGB]{0,0,128}If\ there\ are\ any\ issues\ please\ go\ to\ the\ above\ listed\ URL.\ Thank\ you.$
+
+
 
