@@ -12,5 +12,7 @@ Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.<br><br>
 <b>Please Note: I am not the original author.<br>
 If there are any issues please go to the above listed URL. Thank you.</b>
 ```html
+<html><body>
 <font color="green"> Some green text </font>
+  </body></html>
 ```
