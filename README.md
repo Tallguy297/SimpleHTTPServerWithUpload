@@ -10,4 +10,4 @@ Directory listing is in a table format with file sizes and creation dates.<br><b
 This script also supports IP Address & Port binding.<br><br>
 Change 'SimpleHTTPServerWithUpload.sh' to suit your requirements.<br><br>
 $\Large{Please\ Note:\ I\ am\ not\ the\ original\ author.}$
-$\Large{If there are any issues please go to the above listed URL. Thank you.}$
+$\Large{If\ there\ are\ any\ issues\ please\ go\ to\ the\ above\ listed\ URL.\ Thank\ you.}$
